@@ -15,4 +15,4 @@ Os cursos estão sendo ministrados pela primeira vez no segundo semestre de 2026
 As atividades propostas estão indicadas nas próprias notas de aula, quando pertinente.
 
 ## Crédito
-- Prof. Dr. Vinícius M.G.B. Cavalcanti, Professor EBTT IFFluminense, Dep. Engenharia da Computação
+- Prof. Dr. Vinícius M.G.B. Cavalcanti, Professor EBTT IFFluminense, Dep. Engenharia de Computação
