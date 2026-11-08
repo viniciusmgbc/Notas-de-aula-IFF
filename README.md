@@ -17,7 +17,7 @@ As atividades propostas estão indicadas nas próprias notas de aula, quando per
 ## Como citar
 ```bibtex
 @misc{vinicius2026,
-  author    = {Cavalcanti, V.M.G.B.C.},
+  author    = {Cavalcanti, V.M.G.B.},
   title     = {Notas de aula},
   year      = {2026}
 }
