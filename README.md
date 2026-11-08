@@ -14,5 +14,16 @@ Os cursos estão sendo ministrados pela primeira vez no segundo semestre de 2026
 ## Atividades
 As atividades propostas estão indicadas nas próprias notas de aula, quando pertinente.
 
+## Como citar
+```bibtex
+@misc{vinicius2026,
+  author    = {Cavalcanti, V.M.G.B.C.},
+  title     = {Notas de aula},
+  year      = {2026}
+}
+```
+
 ## Crédito
 - Prof. Dr. Vinícius M.G.B. Cavalcanti, Professor EBTT IFFluminense, Dep. Engenharia de Computação
+
+Todo o material foi elaborado em [Latex](https://www.latex-project.org/) baseado no [Terminal template](https://www.overleaf.com/latex/templates/terminal-theme/yqkbpzybqkyx)
