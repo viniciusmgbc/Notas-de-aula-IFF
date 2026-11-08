@@ -26,4 +26,4 @@ As atividades propostas estão indicadas nas próprias notas de aula, quando per
 ## Crédito
 - Prof. Dr. Vinícius M.G.B. Cavalcanti, Professor EBTT IFFluminense, Dep. Engenharia de Computação
 
-Todo o material foi elaborado em [Latex](https://www.latex-project.org/) baseado no [Terminal template](https://www.overleaf.com/latex/templates/terminal-theme/yqkbpzybqkyx)
+Todo o material foi elaborado em [Latex](https://www.latex-project.org/) baseado no [Terminal template](https://www.overleaf.com/latex/templates/terminal-theme/yqkbpzybqkyx).
