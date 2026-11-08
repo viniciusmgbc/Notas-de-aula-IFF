@@ -7,7 +7,7 @@ Os cursos estão sendo ministrados pela primeira vez no segundo semestre de 2026
 ## Conteúdo
 | # | Curso |
 | :--- | :--- |
-| 1 | [Eletrônica Analógica.pdf](https://github.com/viniciusmgbc/Notas-de-aula-IFF/blob/main/2026-2/Eletr%C3%B4nica%20Anal%C3%B3gica.pdf)|
+| 1 | [Eletrônica Analógica](https://github.com/viniciusmgbc/Notas-de-aula-IFF/blob/main/2026-2/Eletr%C3%B4nica%20Anal%C3%B3gica.pdf)|
 | 2 | [Fenômenos de Transporte](https://github.com/viniciusmgbc/Notas-de-aula-IFF/blob/main/2026-2/Fen%C3%B4menos%20de%20Transporte.pdf)|
 | 3 | [Sistemas Digitais](https://github.com/viniciusmgbc/Notas-de-aula-IFF/blob/main/2026-2/Sistemas%20Digitais.pdf)|
 
